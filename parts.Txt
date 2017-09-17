@@ -5,11 +5,14 @@ MCU:
     8-bit (PIC18F45K20) (PIC16LF1773? has DAC... but also has PPS)
     PIC18F45K40, maybe
 
-Digital out: LED, motor/actuator?
-Digital in: pushbutton? switch? rotary switch
+Digital out: LED (using 0805, part is already made), RGB LED (CLX6A-FKB-CJNNRFJBB7A363), motor/actuator?
+Digital in: pushbutton (PTS645SM43SMTR92 LFS -- part is already made), switch? rotary switch
 Analog out: RGB LED (CLV1A-FKB-CHMKPEHBB7A363CT-ND)
-Analog in: pot (), temp sensor (MCP9700T-E/TTCT-ND)
+Analog in: pot (from Tayda?), temp sensor (MCP9700T-E/TTCT-ND)
 UART: USB bridge (FTDI230X -- part is already made)
-SPI: lcd display? memory?
-I2C: IMU?
-DAC: tone generator
+SPI: lcd character display (mfw adafruit)
+I2C: IMU (LSM6DS3USTR)
+DAC: amplifier (MCP6001T-I/OT)
+
+
+
