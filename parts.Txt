@@ -2,7 +2,7 @@ PARTS FOR BOARD
 ---------------
 
 MCU:
-    16-bit (PIC18F45K20) (PIC16LF1773? has DAC... but also has PPS)
+    8-bit (PIC18F45K20) (PIC16LF1773? has DAC... but also has PPS)
     PIC18F45K40, maybe
 
 Digital out: LED, motor/actuator?
