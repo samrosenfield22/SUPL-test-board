@@ -14,5 +14,8 @@ SPI: lcd character display (mfw adafruit)
 I2C: IMU (LSM6DS3USTR)
 DAC: amplifier (MCP6001T-I/OT)
 
+I listed 2 different RGB leds, one in digital out, one in analog out
+y i do dis
+
 
 
